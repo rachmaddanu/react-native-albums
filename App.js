@@ -1,6 +1,6 @@
 //library
 //import ReactNative from 'react-native'; == es5 kebawah
-import { Text, View } from 'react-native'; //de-structuring, mempersingkat penulisan 
+import { View } from 'react-native'; //de-structuring, mempersingkat penulisan 
 //supaya (bg2) tidak ditulis lagi
 import React from 'react';
 //file
